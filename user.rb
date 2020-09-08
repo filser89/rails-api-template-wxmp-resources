@@ -34,8 +34,6 @@ class User < ApplicationRecord
     }
   end
 
-
-
   private
 
   def set_defaults
